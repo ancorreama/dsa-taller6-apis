@@ -1,0 +1,5 @@
+.tox/
+__pycache__/
+*.py[co]
+.pytest_cache/
+.mypy_cache/
